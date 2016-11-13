@@ -15,7 +15,6 @@
 #
 
 
-
 import urllib
 import re
 import sys
@@ -77,9 +76,9 @@ for line in f:
     line = line.strip().split(' ')
     imageIndex = line[0]  # 得到图片序号
 
-    if int(imageIndex) < 1:
+    if int(imageIndex) < beginIndex:
         continue
-    elif int(imageIndex) > 5:
+    elif int(imageIndex) > endIndex:
         break
 
     # 跳过已存在的图片
