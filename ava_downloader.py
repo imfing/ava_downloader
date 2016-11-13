@@ -45,7 +45,7 @@ def schedule(a, b, c):
 # 正则匹配图片并用URLRetrieve下载
 def getImg(html, imageID, imageIndex):
     reg = r'http.*?' + imageID + r'\.jpg'
-    print reg
+    # print reg
     imgre = re.compile(reg)  # 编译成正则表达式变量
     imglist = re.findall(imgre, html)
     for imgurl in imglist:
