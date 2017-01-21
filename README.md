@@ -8,7 +8,8 @@ AVA is a large-Scale database for aesthetic visual analysis containing 250000+ p
 However, the downloaded pakage only has image list and annotations. You may need the script to download AVA images from website.
 
 - Known Issue
-With this script keep sending requests to dpchallenge.com, the website would block your ip address for some time.
+
+With this script keep sending requests to dpchallenge.com, **the website would block your ip address for some time.**
 So, I'm trying to figure out another way to download all the pictures from the site.
 Contact me if you have any. Thank you!
 2017-1-21
