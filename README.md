@@ -8,7 +8,7 @@
 
 **The above link contains the download link**
 
-**For sake of convenience, I copied the download link below:**
+**For sake of convenience, I put the download link below(via Reddit):**
 
 ## Download link: 
 
