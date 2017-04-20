@@ -8,12 +8,14 @@
 
 **The above link contains the download link**
 
-For sake of convenience, I copied the download link below:
+**For sake of convenience, I copied the download link below:**
 
 ## Download link: 
 [https://mega.nz/#F!hIEhQTLY](https://mega.nz/#F!hIEhQTLY) 
-key: !RkOnZv8Fz7EbYreHsiEzvA
-I have broken down this into 64 7z files, just unzip the first file that should work.
+
+key: `!RkOnZv8Fz7EbYreHsiEzvA`
+
+The entire dataset has been split into **64 7z files**, just unzip the first file that should work.
 
 ---
 AVA is a large-Scale database for aesthetic visual analysis containing 250000+ photos from dpchallenge.com.
