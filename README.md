@@ -6,21 +6,29 @@
 ### Attention!
 **[http://www.lucamarchesotti.com/](http://www.lucamarchesotti.com/)**
 
-**The above link contains the download link**
+**The site above contains the download link**
 
-**For sake of convenience, I put the download link below(via Reddit):**
+**For the sake of convenience, I put the download link below (via [Reddit](https://redd.it/5sa3ag)):**
 
-## Download link: 
+## Dataset download link: 
 
 [https://mega.nz/#F!hIEhQTLY](https://mega.nz/#F!hIEhQTLY) 
   
 key: `!RkOnZv8Fz7EbYreHsiEzvA`
   
-The entire dataset has been split into **64 7z files**, just unzip the first file that should work. About **32GB**
+The entire dataset has been split into **64 7z files**, just unzip the first file and it should work. About **32GB** and **255,500** picture files.
+
+## Dataset info files: 
+
+[https://mega.nz/#!MUcXyBSB](https://mega.nz/#!MUcXyBSB) 
+
+key: `!0Q0Nq8_zBuSGiKmEHuKXKoAg8SDsB-21GwlJ22AJegU`
+  
 
 ---
 AVA is a large-Scale database for aesthetic visual analysis containing 250000+ photos from dpchallenge.com.
-However, the downloaded pakage only has image list and annotations. You may need the script to download AVA images from website.
+
+However, the downloaded pakage only contains image list and annotations. You may need the script to download AVA images from website.
 
 ~~- Known Issue~~
 
