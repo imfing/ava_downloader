@@ -4,6 +4,9 @@
 
 
 ### Attention!
+
+The script is deprecated, please check the links below to download.
+
 **[http://www.lucamarchesotti.com/](http://www.lucamarchesotti.com/)**
 
 **The site above contains the download link**
