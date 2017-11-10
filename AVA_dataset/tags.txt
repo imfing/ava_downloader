@@ -1,0 +1,66 @@
+1 Abstract
+24 Action
+31 Advertisement
+66 Analog
+19 Animals
+20 Architecture
+43 Astrophotography
+57 Birds
+21 Black and White
+51 Blur
+64 Camera Phones
+16 Candid
+50 Children
+2 Cityscape
+34 Digital Art
+37 Diptych / Triptych
+49 DPChallenge GTGs
+12 Emotive
+4 Family
+3 Fashion
+63 Fish Eye
+38 Floral
+40 Food and Drink
+53 High Dynamic Range (HDR)
+45 History
+58 Horror
+5 Humorous
+46 Infrared
+65 Insects, etc
+6 Interior
+14 Landscape
+62 Lensbaby
+22 Macro
+56 Maternity
+44 Military
+59 Music
+15 Nature
+26 Nude
+55 Overlays
+33 Panoramic
+13 Performance
+32 Persuasive
+52 Photo-Impressionism
+25 Photojournalism
+60 Pinhole/Zone Plate
+30 Political
+17 Portraiture
+27 Rural
+41 Science and Technology
+35 Seascapes
+47 Self Portrait
+7 Sky
+8 Snapshot
+9 Sports
+18 Still Life
+61 Street
+29 Studio
+54 Texture Library
+48 Textures
+36 Traditional Art
+39 Transportation
+23 Travel
+10 Urban
+11 Vintage
+28 Water
+42 Wedding

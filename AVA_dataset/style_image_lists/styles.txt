@@ -1,0 +1,14 @@
+1 Complementary_Colors
+2 Duotones
+3 HDR
+4 Image_Grain
+5 Light_On_White
+6 Long_Exposure
+7 Macro
+8 Motion_Blur
+9 Negative_Image
+10 Rule_of_Thirds
+11 Shallow_DOF
+12 Silhouettes
+13 Soft_Focus
+14 Vanishing_Point
