@@ -5,7 +5,7 @@
 
 ### Attention!
 
-The script is deprecated, please check the links below to download.
+The script is deprecated (your IP would be blocked by dpchallenge.com), please check the links below to download.
 
 **[http://www.lucamarchesotti.com/](http://www.lucamarchesotti.com/)**
 
@@ -19,7 +19,7 @@ The script is deprecated, please check the links below to download.
   
 key: `!RkOnZv8Fz7EbYreHsiEzvA`
   
-The entire dataset has been split into **64 7z files**, just unzip the first file and it should work. About **32GB** and **255,500** picture files.
+The entire dataset has been split into **64 7z files**. Download **all** the zip files, unzip the first file and it should work. About **32GB** and **255,500** picture files.
 
 ## Dataset info files: 
 
