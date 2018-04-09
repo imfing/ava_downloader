@@ -1,34 +1,57 @@
-# AVA dataset downloader
+# :flower_playing_cards: AVA dataset downloader
 
-**AVA: A Large-Scale Database for Aesthetic Visual Analysis**
+AVA: A Large-Scale Database for Aesthetic Visual Analysis
 
+:warning:**Attention!** The script is deprecated (your IP would be blocked by dpchallenge.com), please check the links below to download.
 
-### Attention!
+## :point_down: Dataset download: 
 
-The script is deprecated (your IP would be blocked by dpchallenge.com), please check the links below to download.
+Download via Mega or Torrent~:sunglasses:
 
-**[http://www.lucamarchesotti.com/](http://www.lucamarchesotti.com/)**
+### :cloud: Mega cloud storage
 
-**The site above contains the download link**
+#### :file_folder: AVA Dataset
 
-**For the sake of convenience, I put the download link below (via [Reddit](https://redd.it/5sa3ag)):**
-
-## Dataset download link: 
-
-[https://mega.nz/#F!hIEhQTLY](https://mega.nz/#F!hIEhQTLY) 
+[https://mega.nz/#F!hIEhQTLY](https://mega.nz/#F!hIEhQTLY), :key: key: `!RkOnZv8Fz7EbYreHsiEzvA`
   
-key: `!RkOnZv8Fz7EbYreHsiEzvA`
-  
-The entire dataset has been split into **64 7z files**. Download **all** the zip files, unzip the first file and it should work. About **32GB** and **255,500** picture files.
+:memo: The entire dataset has been split into **64 7z files**. Download **all** the zip files, unzip the first file and it should work. About **32GB** and **255,500** picture files.
 
-## Dataset info files: 
+#### :information_source: Dataset info files
 
-[https://mega.nz/#!MUcXyBSB](https://mega.nz/#!MUcXyBSB) 
+[https://mega.nz/#!MUcXyBSB](https://mega.nz/#!MUcXyBSB), :key: key: `!0Q0Nq8_zBuSGiKmEHuKXKoAg8SDsB-21GwlJ22AJegU`
 
-key: `!0Q0Nq8_zBuSGiKmEHuKXKoAg8SDsB-21GwlJ22AJegU`
-  
+### :link: Torrent
+
+Download the [torrent](http://academictorrents.com/download/71631f83b11d3d79d8f84efe0a7e12f0ac001460.torrent) with [uTorrent](http://www.utorrent.com/) or other clients.
+
+Magnet link is also supported. Check http://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460 for more details.
+
+:memo: The downloading process could be unstable due to the network condition of torrent servers. If so, use Mega instead.
 
 ---
+
+<hr></hr>
+
+**Bibtex:**
+```
+@article{,
+title= {AVA: A Large-Scale Database for Aesthetic Visual Analysis},
+keywords= {images, aesthetics, semantic, quality, AVA, DPChallenge},
+journal= {},
+author= {Naila Murray and Luca Marchesotti and Florent Perronnin},
+year= {},
+url= {},
+license= {},
+abstract= {Aesthetic Visual Analysis (AVA) contains over 250,000 images along with a rich variety of meta-data including a large number of aesthetic scores for each image, semantic labels for over 60 categories as well as labels related to photographic style for high-level image quality categorization.},
+superseded= {},
+terms= {}
+}
+```
+
+[http://www.lucamarchesotti.com/](http://www.lucamarchesotti.com/) contains the download link
+
+For the sake of convenience, I put the download link above (via [Reddit](https://redd.it/5sa3ag))
+
 AVA is a large-Scale database for aesthetic visual analysis containing 250000+ photos from dpchallenge.com.
 
 However, the downloaded pakage only contains image list and annotations. You may need the script to download AVA images from website.
