@@ -1,8 +1,10 @@
 # :flower_playing_cards: AVA dataset downloader
 
-AVA: A Large-Scale Database for Aesthetic Visual Analysis
+**AVA: A Large-Scale Database for Aesthetic Visual Analysis**
 
-:warning:**Attention!** The script is deprecated (your IP would be blocked by dpchallenge.com), please check the links below to download.
+:warning:**Attention!** 
+
+The script is deprecated (your IP would be blocked by dpchallenge.com), please check the links below to download.
 
 ## :point_down: Dataset download: 
 
@@ -22,15 +24,13 @@ Download via Mega or Torrent~:sunglasses:
 
 ### :link: Torrent
 
-Download the [torrent](http://academictorrents.com/download/71631f83b11d3d79d8f84efe0a7e12f0ac001460.torrent) with [uTorrent](http://www.utorrent.com/) or other clients.
+Download the **[torrent file](http://academictorrents.com/download/71631f83b11d3d79d8f84efe0a7e12f0ac001460.torrent)** and open with [uTorrent](http://www.utorrent.com/) or other clients.
 
 Magnet link is also supported. Check http://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460 for more details.
 
 :memo: The downloading process could be unstable due to the network condition of torrent servers. If so, use Mega instead.
 
 ---
-
-<hr></hr>
 
 **Bibtex:**
 ```
